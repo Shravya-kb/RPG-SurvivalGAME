@@ -103,6 +103,6 @@ cd Slash-3D-Survival-Game
 - Browser compatibility variations
 
 ## Credits
-- Game Development: Mayuresh
+- Game Development: Shravya K B and Channambika
 - 3D Models: Three js Examples
 - Libraries: Three.js Community
